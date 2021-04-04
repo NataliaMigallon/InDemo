@@ -1,27 +1,22 @@
-Promo-l-Modulo-1-Equipo-4
-#InDemo
-En este proyecto mostraremos nuestra primera web colaborativa.
-Se desarrolla una página web con las siguientes características:
-• Uso de HTML y Sass
-• Uso de mediaqueries y otras técnicas de diseño responsive en la que la web se adapta al tamaño de
-pantalla de distintos dispositivos.
-• Uso de git para el control de versiones del proyecto.
-• Resultado publicado en Internet usando GitHub Pages.
-En este enlace, podréis acceder a la demo del proyecto:
+# #InDemo
 
-- http://beta.adalab.es/project-promo-l-module-1-team-4/
-  Para poder instalar el proyecto en vuestros equipos debéis instalar el siguiente repositorio
+En este proyecto ha consistido en crear nuestra primera web colaborativa `responsive`, dentro del programa del `módulo 1` del bootcamp cursado en [Adalab](https://adalab.es/). 
+En ella hemos hecho uso de las siguientes herramientas:
+- `HTML` y `SASS`
+- `Mediaqueries`y otras ténicas de diseño responsive, por lo que se comporta correctamente en distintos dispositivos.
+- `GIT` para el contro de versiones del proyecto.
 
-https://github.com/Adalab/project-promo-l-module-1-team-4.git en vuestro editor de código y ejecutar los
-comandos en la terminal npm install y npm start.
+Para ver el proyecto tienes dos opciones: hacer click [aquí](https://nataliamigallon.github.io/InDemo/), o instalarlo en tu ordenador.
 
-Para poder contactar con nosotras os dejamos a continuación nuestro e-mail:
+## Instalación
 
-- Anafruiz20@gmail.com
-- Natmigallon@gmail.com
-- Bertapsan@gmail.com
-- Victoriak.dev@gmail.com
+Si quieres instalar y ejecutar el proyecto completo, sigue los siguientes pasos:
 
-No antes acabar sin agradecer especialmente al equipo de Adalab por la ayuda y paciencia para poder llevar a
-cabo nuestra primera web, y a cada una de las personas del equipo por la comunicación y el trabajo en remoto que ha
-hecho posible la creación de este proyecto.
+1. Clona este repositorio
+2. Entra en la carpeta raíz
+3. Ejecuta en la terminal `npm install`
+4. Para lanzar el proyecto: ejecuta en la terminal `npm start`.
+
+## EQUIPO
+
+Formado por cuatro programadoras web front-end que coincidieron en su proceso de reconversión en el mundo developer. Si quieres ponerte en contacto con nosotras puedes hacerlo a través de nuestros perfiles de GitHub: [Ana Fernández](https://github.com/Anafruiz), [Victoria Kovaleva](https://github.com/kvi-ki), [Natalia Migallón](https://github.com/NataliaMigallon) y [Berta Pluma](https://github.com/bertapsan).
