@@ -1,8 +1,8 @@
 # #InDemo
 
 En este proyecto ha consistido en crear nuestra primera web colaborativa `responsive`, dentro del programa del `módulo 1` del bootcamp cursado en [Adalab](https://adalab.es/). 
-En ella hemos hecho uso de las siguientes herramientas:
-- `HTML` y `SASS`
+En ella hemos hecho uso de las siguientes herramientas, utilizando la plantilla de proyectos [STARTER KIT](https://github.com/Adalab/adalab-web-starter-kit) creada por Adalab.:
+- `HTML5`, `CSS3`, `SASS` y `Gulp`.
 - `Mediaqueries`y otras ténicas de diseño responsive, por lo que se comporta correctamente en distintos dispositivos.
 - `GIT` para el contro de versiones del proyecto.
 
