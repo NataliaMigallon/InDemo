@@ -17,6 +17,6 @@ Si quieres instalar y ejecutar el proyecto completo, sigue los siguientes pasos:
 3. Ejecuta en la terminal `npm install`
 4. Para lanzar el proyecto: ejecuta en la terminal `npm start`.
 
-## EQUIPO
+## Equipo
 
 Formado por cuatro programadoras web front-end que coincidieron en su proceso de reconversión en el mundo developer. Si quieres ponerte en contacto con nosotras puedes hacerlo a través de nuestros perfiles de GitHub: [Ana Fernández](https://github.com/Anafruiz), [Victoria Kovaleva](https://github.com/kvi-ki), [Natalia Migallón](https://github.com/NataliaMigallon) y [Berta Pluma](https://github.com/bertapsan).
