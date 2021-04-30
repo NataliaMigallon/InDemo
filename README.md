@@ -4,7 +4,7 @@ En este proyecto ha consistido en crear nuestra primera web colaborativa `respon
 En ella hemos hecho uso de las siguientes herramientas, utilizando la plantilla de proyectos [STARTER KIT](https://github.com/Adalab/adalab-web-starter-kit) creada por Adalab.:
 - `HTML5`, `CSS3`, `SASS` y `Gulp`.
 - `Mediaqueries`y otras ténicas de diseño responsive, por lo que se comporta correctamente en distintos dispositivos.
-- `GIT` para el contro de versiones del proyecto.
+- `GIT` para el control de versiones del proyecto.
 
 Para ver el proyecto tienes dos opciones: hacer click [aquí](https://nataliamigallon.github.io/InDemo/), o instalarlo en tu ordenador.
 
